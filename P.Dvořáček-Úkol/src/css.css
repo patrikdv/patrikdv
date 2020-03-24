@@ -1,0 +1,18 @@
+.form-control{
+    border: 2px solid black;
+}
+p{
+    font-size: 25px;
+    font-family: Awesome;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#titles{
+    width: 20%;
+}
+h4{
+    margin-top: 20px;
+}
+h3{
+    margin-left: 500px;
+}
